@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="architecture.png" alt="AWS ALB ASG WAF Architecture" width="800"/>
+  <img src="Architecture.png" alt="AWS ALB ASG WAF Architecture" width="800"/>
 </p>
 
 <h1>AWS Application Load Balancer + Auto Scaling Group + WAF Setup</h1>
