@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="architecture.png" alt="AWS ALB ASG WAF Architecture" width="800"/>
+</p>
+
 <h1>AWS Application Load Balancer + Auto Scaling Group + WAF Setup</h1>
 
 This repository documents the step-by-step process to deploy a scalable and secure web application architecture on AWS using an Application Load Balancer, Auto Scaling Group, and AWS WAF.
